@@ -1,0 +1,3 @@
+[submodule "alchimia"]
+    path = alchimia
+    url = git://github.com/pake97/alchimia.git
